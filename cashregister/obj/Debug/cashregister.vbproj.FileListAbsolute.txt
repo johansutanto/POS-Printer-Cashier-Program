@@ -1,0 +1,14 @@
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\bin\Debug\cashregister.exe.config
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.vbprojResolveAssemblyReference.cache
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.Resources.resources
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.vbproj.GenerateResource.Cache
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.xml
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\bin\Debug\cashregister.exe
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\bin\Debug\cashregister.pdb
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\bin\Debug\cashregister.xml
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.Form1.resources
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.exe
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.pdb
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.Form3.resources
+c:\users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.Form2.resources
+C:\Users\johansutanto\documents\visual studio 2015\Projects\cashregister\cashregister\obj\Debug\cashregister.Form4.resources
